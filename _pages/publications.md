@@ -9,7 +9,7 @@ author_profile: true
 
 * **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**
   **P. Duong-Ngoc**, S. Kwon, D. Yoo, and H. Lee,
-  *TCAS-I, 2022, (Under Revision).* 
+  *TCAS-I, 2022, (Under Revision)*. 
 
 * **Configurable Mixed-Radix Number Theoretic Transform Architecture for Lattice-Based Cryptography**  
   **P. Duong-Ngoc** and H. Lee,  
