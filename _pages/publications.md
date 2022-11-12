@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022  
 
-* **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**
+* **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **P. Duong-Ngoc**, S. Kwon, D. Yoo, and H. Lee,
   *TCAS-I, 2022, (Under Revision)*. 
 
