@@ -9,8 +9,5 @@ main:
   - title: "Academic"
     url: /teaching/    
     
-  - title: "CV"
+  - title: "Contact"
     url: /cv/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
