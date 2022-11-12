@@ -15,8 +15,8 @@ My primary research interests include algorithms and architectures for post-quan
 
 ## Experience
 
-* <b>Post-Doctoral Researcher</b> at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University (09/2022-*current*). Director: Prof. Hanho Lee.
-* <b>Lecturer</b> at the Faculty of Computer Engineering and Electronics, Vietnam-Korea University of Information and Communication Technology, The University of Danang, Vietnam (12/2012-*current*).
+* <b>Post-Doctoral Researcher</b> at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University (09/2022-*present*). Director: Prof. Hanho Lee.
+* <b>Lecturer</b> at the Faculty of Computer Engineering and Electronics, Vietnam-Korea University of Information and Communication Technology, The University of Danang, Vietnam (12/2012-*present*).
 * <b>Researcher</b> at the Vietnam Research Institute of Electronics, Informatics and Automation (VIELINA) (05/2011-11/2012).
   
 
