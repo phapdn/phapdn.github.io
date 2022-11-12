@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about/ 
+
+  - title: "Publications"
+    url: /publications/   
+
+  - title: "Academic"
+    url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
