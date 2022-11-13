@@ -9,7 +9,7 @@ author_profile: true
 
 * **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **P. Duong-Ngoc**, S. Kwon, D. Yoo, and H. Lee,
-  *TCAS-I, 2022, (Under Revision)*. 
+  *TCAS-I, 2022, (Accepted)*. 
 
 * **Configurable Mixed-Radix Number Theoretic Transform Architecture for Lattice-Based Cryptography**  
   **P. Duong-Ngoc** and H. Lee,  
@@ -35,6 +35,10 @@ author_profile: true
 
 
 ## 2020
+
+* **Efficient NewHope Cryptography Based Facial Security System on a GPU**  
+  **P. Duong-Ngoc**, T. T. Nguyen, and H. Lee,  
+  *IEEE Access, 2020*. (<a href="https://ieeexplore.ieee.org/document/9109278">Link</a>)
 
 * **Efficient k-Parallel Pipelined NTT Architecture for Post Quantum Cryptography**  
   **P. Duong-Ngoc**, Y. J. Kim, and H. Lee,  

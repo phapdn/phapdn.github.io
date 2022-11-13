@@ -10,7 +10,7 @@ author_profile: true
 ## Service to scientific community (as reviewer)  
 -->
 ## Teaching
-I taught classes, exam preparations and grading. List of classes:
+I taught classes, exam preparations and grading at VKU. List of classes:
 * Computer Architecture
 * Digital Design
 * Embedded Systems
