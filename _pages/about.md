@@ -11,7 +11,14 @@ I am currently a post-doctoral researcher at the Artificial Intelligence System-
 
 I received the B.S. degree in Electronic and Telecommunication Engineering from the Danang University of Science and Technology in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015 and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
 
-My primary research interests include algorithms and architectures for post-quantum cryptography and homomorphic encryption, including cryptographic hardware design, hardware accelerators, and FPGAs. Moreover, I am interesting in the implementation of machine learning algorithms on edge devices and embedded systems.
+## Research Interests
+
+My primary research interests include algorithms and architectures for:
+
+* Post-Quantum Cryptography
+* Homomorphic Encryption 
+* Machine Learning on Edge Devices
+* Embedded Systems
 
 ## Experience
 
