@@ -33,7 +33,6 @@ author_profile: true
   T. X. Pham, T. T. Nguyen, **P. Duong-Ngoc**, and H. Lee,  
   *ICGNC, 2021*.
 
-
 ## 2020
 
 * **Efficient NewHope Cryptography Based Facial Security System on a GPU**  
@@ -43,6 +42,16 @@ author_profile: true
 * **Efficient k-Parallel Pipelined NTT Architecture for Post Quantum Cryptography**  
   **P. Duong-Ngoc**, Y. J. Kim, and H. Lee,  
   *ISoCC, 2020*. (<a href="https://ieeexplore.ieee.org/document/9332806">Link</a>)
+
+## Others
+
+* **Evaluating Solutions Noise Reduction for Speech Using Wavelet Transforms**  
+  **D. N. Phap** and V. T. D. Hanh,  
+  *JST-UD, 5(114), 2017*.
+
+* **A Study Of Measures For Noisereductionto Improvethe Quality Ofspeech Usingadjustment Kalman Filter**  
+  **D. N. Phap**,  
+  *JST-UD, 12(97), 2015*.
 
 ## Theses
 
