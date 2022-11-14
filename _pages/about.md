@@ -17,10 +17,10 @@ My primary research interests include algorithms and architectures for post-quan
 
 My primary research interests include algorithms and architectures for:
 
-* <b>Post-Quantum Cryptography</b>
-* <b>Homomorphic Encryption</b> 
-* <b>Machine Learning on Edge Devices</b>
-* <b>Embedded Systems</b>
+* Post-Quantum Cryptography
+* Homomorphic Encryption 
+* Machine Learning on Edge Devices
+* Embedded Systems
 
 ## Experience
 
