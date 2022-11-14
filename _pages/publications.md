@@ -45,11 +45,11 @@ author_profile: true
 
 ## Others
 
-* **Evaluating Solutions Noise Reduction for Speech Using Wavelet Transforms**  
+* **Evaluating Noise Reduction Solutions for Speech Using Wavelet Transforms**  
   **D. N. Phap** and V. T. D. Hanh,  
   *JST-UD, 5(114), 2017*.
 
-* **A Study Of Measures For Noisereductionto Improvethe Quality Ofspeech Usingadjustment Kalman Filter**  
+* **A Study Of Measures for Noise Reduction to Improve the Quality of Speech Using Adjustment Kalman Filter**  
   **D. N. Phap**,  
   *JST-UD, 12(97), 2015*.
 
