@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Hitech Center, Room 401,\
-100 Inha, Michulho, Incheon 22212, South Korea.\
+Hitech Center Building, Room 401,\
+100 Inha-ro, Michulho-gu, Incheon, South Korea.\
 Email: dnphap@inha.ac.kr\
 Handphone: (+82)-10-7433-2806
