@@ -12,5 +12,6 @@ author_profile: true
 ## Teaching
 I taught classes, exam preparations and grading at VKU. List of classes:
 * Computer Architecture
-* Digital Design
+* Digital System Design
 * Embedded Systems
+* Electronic Circuits
