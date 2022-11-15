@@ -49,7 +49,7 @@ author_profile: true
   **D. N. Phap** and V. T. D. Hanh,  
   *JST-UD, 5(114), 2017*.
 
-* **Solutions for Noise Reduction to Improve Speech Quality Using Adjustment Kalman Filter**  
+* **Solutions for Noise Reduction to Improve Speech Quality Using Adjusted Kalman Filter**  
   **D. N. Phap**,  
   *JST-UD, 12(97), 2015*.
 
