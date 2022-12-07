@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a post-doctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Incheon 22212, South Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Danang 50000, Vietnam.
+I am currently a post-doctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Incheon, South Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Danang 50000, Vietnam.
 
 <!--
 I received the B.S. degree in Electronic and Telecommunication Engineering from the University of Science and Technology - The University of Danang, in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015, and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
