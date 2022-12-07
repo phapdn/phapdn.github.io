@@ -9,8 +9,9 @@ redirect_from:
 ---
 I am currently a post-doctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Vietnam.
 
-I received the B.S. degree in Electronic and Telecommunication Engineering from the University of Science and Technology - The University of Danang, in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015, and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
 <!--
+I received the B.S. degree in Electronic and Telecommunication Engineering from the University of Science and Technology - The University of Danang, in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015, and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
+
 My primary research interests include algorithms and architectures for post-quantum cryptography and homomorphic encryption, including cryptographic hardware design, hardware accelerators, and FPGAs. Moreover, I am interesting in the implementation of machine learning algorithms on edge devices and embedded systems.
 -->
 ## Research Interests
