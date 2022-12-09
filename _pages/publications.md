@@ -51,11 +51,11 @@ author_profile: true
 
 * **Evaluating Noise Reduction Solutions for Speech Using Wavelet Transforms**  
   **D. N. Phap** and V. T. D. Hanh,  
-  *JST-UD, 5(114), 2017*.
+  *JST-UD, 5(114), May. 2017*.
 
 * **Solutions for Noise Reduction to Improve Speech Quality Using Adjusted Kalman Filter**  
   **D. N. Phap**,  
-  *JST-UD, 12(97), 2015*.
+  *JST-UD, 12(97), Dec. 2015*.
 
 ## Theses
 
