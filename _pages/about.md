@@ -36,7 +36,7 @@ My primary research interests include algorithms and architectures for:
 * <b>Ph.D.</b>, Information and Communication Engineering, Inha University, Incheon, South Korea (2018-2022)
   * Dissertation: *High performance hardware accelerators for lattice-based cryptography* (supervised by Prof. Hanho Lee)
 * <b>M.Sc.</b>, Electronic Engineering, The University of Danang, Vietnam (2012-2015)
-  * Thesis: *Research on noise reduction method using Kalman filter to enhance speech quality* (supervised by Assoc. Prof. Pham Van Tuan)
+  * Thesis: *Research on noise reduction method for speech enhancement using Kalman filter* (supervised by Assoc. Prof. Pham Van Tuan)
 * <b>B.Sc.</b>, Electronic and Telecommunication Engineering, University of Science and Technology, The University of DaNang, Vietnam (2004-2009)
 <!--  * Final Project: *Designing automatic robot to participate in Vietnam robot contest* (supervised by Dr. Ngo Van Sy)
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
