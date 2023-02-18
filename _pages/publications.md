@@ -16,11 +16,13 @@ author_profile: true
 * **Configurable Mixed-Radix Number Theoretic Transform Architecture for Lattice-Based Cryptography**  
   **P. Duong-Ngoc** and H. Lee,  
   *IEEE Access, Jan. 2022*. (<a href="https://ieeexplore.ieee.org/document/9690849">Link</a>)
-<!-- 
+
+<!--
 * **A Novel Performance Verification Approach of MIPI Camera Serial Interface 2**  
   T. T. Nguyen, T. X. Pham, **P. Duong-Ngoc**, and H. Lee,  
   *ICGNC, Oct. 2022*.
 -->
+
 * **Flexible GPU-Based Implementation of Number Theoretic Transform for Homomorphic Encryption**  
   **P. Duong-Ngoc**, T. X. Pham, H. Lee, and T. T. Nguyen,  
   *ISoCC, Oct. 2022*. (<a href="https://ieeexplore.ieee.org/document/10031464">Link</a>)
