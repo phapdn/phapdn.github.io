@@ -21,7 +21,7 @@ author_profile: true
 
 * **Flexible GPU-Based Implementation of Number Theoretic Transform for Homomorphic Encryption**  
   **P. Duong-Ngoc**, T. X. Pham, H. Lee, and T. T. Nguyen,  
-  *ISoCC, Oct. 2022*.
+  *ISoCC, Oct. 2022*. (<a href="https://ieeexplore.ieee.org/document/10031464">Link</a>)
 
 ## 2021
 
