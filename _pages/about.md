@@ -21,8 +21,7 @@ My primary research interests include algorithms and architectures for:
 * Post-Quantum Cryptography
 * Homomorphic Encryption 
 * Digital Signal Processing
-* Machine Learning on the Edge
-* Embedded Systems
+* Machine Learning
 
 ## Experience
 
