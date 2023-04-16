@@ -9,7 +9,7 @@ author_profile: true
 
 * **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **P. Duong-Ngoc**, S. Kwon, D. Yoo, and H. Lee,  
-  *TCAS-I, Mar. 2023*. (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>)
+  *IEEE TCAS-I, Mar. 2023*. (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>)
 
 ## 2022  
 
