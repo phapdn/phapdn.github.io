@@ -18,9 +18,10 @@ My primary research interests include algorithms and architectures for post-quan
 
 My primary research interests include algorithms and architectures for:
 
+* Digital Signal Processing
+* Hardware Acceleration
 * Post-Quantum Cryptography
 * Homomorphic Encryption 
-* Digital Signal Processing
 * Machine Learning
 
 ## Experience
