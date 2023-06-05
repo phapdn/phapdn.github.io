@@ -9,7 +9,7 @@ author_profile: true
 
 * **Pipelined Key Switching Accelerator Architecture for CKKS-Based Fully Homomorphic Encryption**  
   **P. N. Duong** and H. Lee,  
-  *Sensors, May. 2023*. (<a href="https://www.mdpi.com/1424-8220/23/10/4594">Link</a>)
+  *Sensors, May 2023*. (<a href="https://www.mdpi.com/1424-8220/23/10/4594">Link</a>)
 
 * **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **P. Duong-Ngoc**, S. Kwon, D. Yoo, and H. Lee,  
