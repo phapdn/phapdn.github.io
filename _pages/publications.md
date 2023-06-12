@@ -55,7 +55,7 @@ author_profile: true
   **P. Duong-Ngoc**, Y. J. Kim, and H. Lee,  
   *ISoCC, Oct. 2020*. (<a href="https://ieeexplore.ieee.org/document/9332806">Link</a>)
 
-## Others
+## 2017-2015
 
 * **Evaluating Noise Reduction Solutions for Speech Using Wavelet Transforms**  
   **D. N. Phap** and V. T. D. Hanh,  
