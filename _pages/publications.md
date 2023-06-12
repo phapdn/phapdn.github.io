@@ -65,6 +65,16 @@ author_profile: true
   **D. N. Phap**,  
   *JST-UD, 12(97), Dec. 2015*.
 
+## Patents
+
+* **[Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
+  Hanho Lee, Yongjin Kim, and **D. N. Phap**,
+  *Patent No.: 10-2541388. June 02 2023.*
+
+* **Solutions for Noise Reduction to Improve Speech Quality Using Adjusted Kalman Filter**  
+  **D. N. Phap**,  
+  *JST-UD, 12(97), Dec. 2015*.
+
 ## Theses
 
 * **High performance hardware accelerators for lattice-based cryptography**  
