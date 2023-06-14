@@ -81,4 +81,4 @@ author_profile: true
 
 * **High performance hardware accelerators for lattice-based cryptography**  
   **Duong Ngoc Phap**,  
-  *Ph.D. Dissertation, Inha University, Aug. 2022*.
+  *Ph.D. Dissertation, Inha University, August 2022*.
