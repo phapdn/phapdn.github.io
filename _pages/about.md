@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a post-doctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Incheon, South Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Danang, Vietnam.
+I am currently a postdoctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Incheon, South Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Danang, Vietnam.
 
 <!--
 I received the B.S. degree in Electronic and Telecommunication Engineering from the University of Science and Technology - The University of Danang, in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015, and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
@@ -26,7 +26,7 @@ My primary research interests include algorithms and architectures for:
 
 ## Experience
 
-* <b>Post-Doctoral Researcher</b> at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, South Korea (09/2022-*present*). Director: Prof. Hanho Lee.
+* <b>Postdoctoral Researcher</b> at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, South Korea (09/2022-*present*). Director: Prof. Hanho Lee.
 * <b>Lecturer</b> at the Faculty of Computer Engineering and Electronics, Vietnam-Korea University of Information and Communication Technology, The University of Danang, Vietnam (2012-*present*).
 * <b>Researcher</b> at the Vietnam Research Institute of Electronics, Informatics and Automation - Central region (VIELINA-CR), Vietnam (2010-2012).
   
