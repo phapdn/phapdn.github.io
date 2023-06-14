@@ -43,7 +43,7 @@ author_profile: true
 
 * **Novel Performance Evaluation Approach of AMBA AXI-Based SoC Design**  
   Tuy Tan Nguyen, **Phap Duong-Ngoc**, Thang Xuan Pham, and Hanho Lee,  
-  *Proceeding of The 18th International SoC Conference (ISoCC), pp. 403-404, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9613920">Link</a>)
+  *Proceeding of The 18th International SoC Conference (ISoCC), pp. 403-404, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9613920">Link</a>).*
 
 <!--
 * **High-Throughput Multi-Threaded Non-binary LDPC Decoder Architecture**  
