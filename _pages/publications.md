@@ -7,6 +7,12 @@ author_profile: true
 
 ## 2023
 
+<!--
+* **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
+  S. Kurniawan, **P. Duong-Ngoc**, and H. Lee,  
+  *(Accepted) IEEE TCAS-II, 2023*.
+-->
+
 * **Pipelined Key Switching Accelerator Architecture for CKKS-Based Fully Homomorphic Encryption**  
   **P. N. Duong** and H. Lee,  
   *Sensors, May 2023*. (<a href="https://www.mdpi.com/1424-8220/23/10/4594">Link</a>)
