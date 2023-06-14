@@ -74,7 +74,7 @@ author_profile: true
 ## Patents
 
 * **[Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
-  Hanho Lee, Yongjin Kim, and **Duong Ngoc Phap.**  
+  Hanho Lee, Yongjin Kim, and **Duong Ngoc Phap,**  
   *Patent No. 10-2541388, 2 June 2023.*
 
 ## Theses
