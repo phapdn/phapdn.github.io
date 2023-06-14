@@ -8,7 +8,7 @@ author_profile: true
 ## 2023
 
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
-  Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,
+  Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,  
   *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), No. x, pp. x, 2023, (Accepted).*
 
 * **Pipelined Key Switching Accelerator Architecture for CKKS-Based Fully Homomorphic Encryption**  
