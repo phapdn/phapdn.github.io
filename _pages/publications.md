@@ -9,15 +9,15 @@ author_profile: true
 
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
   Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), No. x, pp. x, 2023, (Accepted).*
+  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Vol. x, pp. x, 2023, (Accepted).*
 
 * **Pipelined Key Switching Accelerator Architecture for CKKS-Based Fully Homomorphic Encryption**  
   **Phap Ngoc Duong** and Hanho Lee,  
-  *Sensors, No. 23 (10), pp. 4594, May 2023 (<a href="https://www.mdpi.com/1424-8220/23/10/4594">Link</a>).*
+  *Sensors, Vol. 23 (10), pp. 4594, May 2023 (<a href="https://www.mdpi.com/1424-8220/23/10/4594">Link</a>).*
 
 * **Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Sunmin Kwon, Donghoon Yoo, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), No. 70 (3), pp. 1270-1282, Mar. 2023 (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>).*
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Vol. 70 (3), pp. 1270-1282, Mar. 2023 (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>).*
 
 ## 2022  
 
