@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication name: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
+Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2023
 
