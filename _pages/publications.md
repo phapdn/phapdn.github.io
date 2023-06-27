@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Publish name: **Phap Duong-Ngoc**; **Phap Ngoc Duong**
+
 ## 2023
 
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
