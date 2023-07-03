@@ -33,7 +33,7 @@ My primary research interests include algorithms and architectures for:
 
 ## Education
 
-* <b>Ph.D.</b>, Information and Communication Engineering, Inha University, Incheon, South Korea (2018-2022)
+* <b>Ph.D.</b>, Electrical and Computer Engineering, Inha University, Incheon, South Korea (2018-2022)
   * Dissertation: *High performance hardware accelerators for lattice-based cryptography* (supervised by Prof. Hanho Lee)
 * <b>M.Sc.</b>, Electronic Engineering, The University of Danang, Vietnam (2012-2015)
   * Thesis: *Research on noise reduction method for speech enhancement using Kalman filter* (supervised by Assoc. Prof. Pham Van Tuan)
@@ -43,7 +43,7 @@ My primary research interests include algorithms and architectures for:
 
 <!--
 ## Research Interests
-
+Information and Communication Engineering
 * Lattice-Based Cryptography
 * Homomorphic Encryption
 * Post-Quantum Cryptography
