@@ -27,11 +27,9 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
   **Phap Duong-Ngoc** and Hanho Lee,  
   *IEEE Access, Vol. 10, pp. 12732 - 12741, Jan. 2022 (<a href="https://ieeexplore.ieee.org/document/9690849">Link</a>).*
 
-<!--
 * **A Novel Performance Verification Approach of MIPI Camera Serial Interface 2**  
   Tuy Tan Nguyen, Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
   *ICGNC, Oct. 2022*.
--->
 
 * **Flexible GPU-Based Implementation of Number Theoretic Transform for Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Thang Xuan Pham, Hanho Lee, and Tuy Tan Nguyen,  
@@ -47,11 +45,9 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
   Tuy Tan Nguyen, **Phap Duong-Ngoc**, Thang Xuan Pham, and Hanho Lee,  
   *Proceeding of The 18th International SoC Conference (ISoCC), pp. 403-404, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9613920">Link</a>).*
 
-<!--
 * **High-Throughput Multi-Threaded Non-binary LDPC Decoder Architecture**  
   Thang Xuan Pham, Tuy Tan Nguyen, **Phap Duong-Ngoc**, and Hanho Lee,  
   *ICGNC, Nov. 2021*.
--->
 
 ## 2020
 

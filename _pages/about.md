@@ -9,11 +9,6 @@ redirect_from:
 ---
 I am currently a postdoctoral researcher at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center and [Digital Integrated Systems (DIS) Laboratory](https://sites.google.com/view/inhasoc), [Inha University](https://eng.inha.ac.kr/eng/index.do), Incheon, South Korea; and a lecturer at [Vietnam-Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn/), [The University of Danang](https://www.udn.vn/english), Danang, Vietnam.
 
-<!--
-I received the B.S. degree in Electronic and Telecommunication Engineering from the University of Science and Technology - The University of Danang, in 2009, the M.S. degree in Electronic Engineering from The University of Danang, Vietnam, in 2015, and the Ph.D. degree in Information and Communication Engineering from Inha University, Korea, in 2022.
-
-My primary research interests include algorithms and architectures for post-quantum cryptography and homomorphic encryption, including cryptographic hardware design, hardware accelerators, and FPGAs. Moreover, I am interesting in the implementation of machine learning algorithms on edge devices and embedded systems.
--->
 ## Research Interests
 
 My primary research interests include algorithms and architectures for:
@@ -38,15 +33,3 @@ My primary research interests include algorithms and architectures for:
 * <b>M.Sc.</b>, Electronic Engineering, The University of Danang, Vietnam (2012-2015)
   * Thesis: *Research on noise reduction method for speech enhancement using Kalman filter* (supervised by Assoc. Prof. Pham Van Tuan)
 * <b>B.Sc.</b>, Electronic and Telecommunication Engineering, University of Science and Technology, The University of DaNang, Vietnam (2004-2009)
-<!--  * Final Project: *Designing automatic robot to participate in Vietnam robot contest* (supervised by Dr. Ngo Van Sy)
-<!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
-
-<!--
-## Research Interests
-Information and Communication Engineering
-* Lattice-Based Cryptography
-* Homomorphic Encryption
-* Post-Quantum Cryptography
-* Cryptographic Hardware Design
-* Hardware Accelerators, FPGAs
--->
