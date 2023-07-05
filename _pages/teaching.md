@@ -13,5 +13,5 @@ author_profile: true
 <!--
 * Computer Architecture
 * Digital Systems Design
-* Embedded Systems
+* Embedded Systems Design
 -->
