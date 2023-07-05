@@ -29,7 +29,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **A Novel Performance Verification Approach of MIPI Camera Serial Interface 2**  
   Tuy Tan Nguyen, Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *ICGNC, Oct. 2022*.
+  *Proceeding of The 8th International Conference on Next Generation Computing (ICGNC), Oct. 2022*.
 
 * **Flexible GPU-Based Implementation of Number Theoretic Transform for Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Thang Xuan Pham, Hanho Lee, and Tuy Tan Nguyen,  
@@ -47,7 +47,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **High-Throughput Multi-Threaded Non-binary LDPC Decoder Architecture**  
   Thang Xuan Pham, Tuy Tan Nguyen, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *ICGNC, Nov. 2021*.
+  *Proceeding of The 7th International Conference on Next Generation Computing (ICGNC), Nov. 2021*.
 
 ## 2020
 
