@@ -86,7 +86,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
   Hanho Lee, Yongjin Kim, and **Duong Ngoc Phap,**  
-  Inha University 
+  Inha University  
   *Patent No. 10-2541388, 2 Jun. 2023.*
 
 ## Theses
