@@ -79,7 +79,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## Patents
 
-* **[Unitied States] Appratus and Method with Homomorphic Encryption**  
+* **[Unitied States] Apparatus and Method with Homomorphic Encryption**  
   KWON Sunmin, Hanho Lee, **Phap Ngoc DUONG**, Dong-hoon Yoo, 
   Samsung Electronics Co., Ltd.,; Inha-Industry Partnership Institute 
   *Pub. No. US 2023/0171084 A1, 1 Jun. 2023.*
