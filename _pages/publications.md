@@ -9,6 +9,10 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2023
 
+* **Configurable Encryption and Decryption Architectures for CKKS-Based Homomorphic Encryption**  
+  Jaehyeok Lee, **Phap Ngoc Duong** and Hanho Lee,  
+  *Sensors, Vol. 23 (17), pp. 7389, Aug. 2023 (<a href="https://www.mdpi.com/1424-8220/23/17/7389">Link</a>).*
+
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
   Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,  
   *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Early Access, pp. 1--5, Jun. 2023 (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
@@ -75,9 +79,15 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## Patents
 
+* **[Unitied States] Appratus and Method with Homomorphic Encryption**  
+  KWON Sunmin, Hanho Lee, **Phap Ngoc DUONG**, Dong-hoon Yoo, 
+  Samsung Electronics Co., Ltd.,; Inha-Industry Partnership Institute 
+  *Pub. No. US 2023/0171084 A1, 1 Jun. 2023.*
+
 * **[Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
   Hanho Lee, Yongjin Kim, and **Duong Ngoc Phap,**  
-  *Patent No. 10-2541388, 2 June 2023.*
+  Inha University 
+  *Patent No. 10-2541388, 2 Jun. 2023.*
 
 ## Theses
 
