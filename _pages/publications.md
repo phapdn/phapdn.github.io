@@ -84,7 +84,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
   Samsung Electronics Co., Ltd.,; Inha-Industry Partnership Institute  
   *Pub. No. US 2023/0171084 A1, 1 Jun. 2023.*
 
-* **[Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
+* **[South Korea] Apparatus and Method for Ring-LWE Cryptoprocessor Using MDF Based NTT**  
   Hanho Lee, Yongjin Kim, and **Duong Ngoc Phap,**  
   Inha University  
   *Patent No. 10-2541388, 2 Jun. 2023.*
