@@ -11,7 +11,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
   Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), (ISICAS2023 Presentation), pp. 1--5, Jun. 2023 (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
+  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Vol. 70 (10), pp. 3942-3946, Oct. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
 
 * **Configurable Encryption and Decryption Architectures for CKKS-Based Homomorphic Encryption**  
   Jaehyeok Lee, **Phap Ngoc Duong** and Hanho Lee,  
