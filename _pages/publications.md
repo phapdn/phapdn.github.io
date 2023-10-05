@@ -91,6 +91,6 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## Theses
 
-* **High performance hardware accelerators for lattice-based cryptography**  
+* **High Performance Hardware Sccelerators for Lattice-Based Cryptography**  
   **Duong Ngoc Phap**,  
   *Ph.D. Dissertation, Inha University, August 2022.*
