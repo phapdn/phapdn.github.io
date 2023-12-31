@@ -11,11 +11,11 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **An Efficient Unified Polynomial Arithmetic Unit for CRYSTALS-Dilithium**  
   Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Sep. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/abstract/document/10266817">Link</a>).*
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Vol. 70 (12), pp. 4854-4864, Sep. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/abstract/document/10266817">Link</a>).*
 
 * **Configurable Memory-Based NTT Architecture for Homomorphic Encryption**  
   Stefanus Kurniawan, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Vol. 70 (10), pp. 3942-3946, Oct. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
+  *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Vol. 70 (10), pp. 3942-3946, Jun. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
 
 * **Configurable Encryption and Decryption Architectures for CKKS-Based Homomorphic Encryption**  
   Jaehyeok Lee, **Phap Ngoc Duong** and Hanho Lee,  
