@@ -37,7 +37,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **Low-Complexity Architecture of Finding First Four Minimum Values for Non-binary LDPC Decoders**  
   Thang Xuan Pham, **Phap Duong-Ngoc**, Hanho Lee, and Tuy Tan Nguyen,  
-  *Proceeding of The 19th International SoC Conference (ISoCC), pp. 259-260, Oct. 2022.*
+  *Proceeding of The 19th International SoC Conference (ISoCC), pp. 259-260, Oct. 2022 (<a href="https://ieeexplore.ieee.org/abstract/document/10031266">Link</a>).*
 
 * **A Novel Performance Verification Approach of MIPI Camera Serial Interface 2**  
   Tuy Tan Nguyen, Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
