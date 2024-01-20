@@ -21,10 +21,13 @@ My primary research interests include algorithms and architectures for:
 
 ## Experience
 
-* <b>09/2022-01/2024</b>: Postdoctoral fellow at Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, Incheon, South Korea.
-* <b>2018-2022</b>: Assistant researcher at Digital Integrated Systems (DIS) Laboratory, Inha University, Incheon, South Korea.
-* <b>2012-present</b>: Lecturer at The University of Danang - Vietnam-Korea University of Information and Communication Technology, Danang, Vietnam.
-* <b>2010-2012</b>: Researcher at Vietnam Research Institute of Electronics, Informatics and Automation (VIELINA) - Central Region, Danang, Vietnam.
+* <b>09/2022-01/2024</b>: Postdoctoral Fellow, Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, Incheon, South Korea.
+* <b>2018-2022</b>: Graduate Assistant Researcher, Digital Integrated Systems (DIS) Laboratory, Inha University, Incheon, South Korea.
+* <b>11/72020-present</b>: Lecturer, The University of Danang, Vietnam-Korea University of Information and Communication Technology, Vietnam.
+* <b>10/2017-10/2020</b>: Lecturer, The University of Danang, School of Information and Communication
+Technology, Vietnam.
+* <b>12/2012-9/2017</b>: Lecturer, The University of Danang, College of Information Technology, Vietnam.
+* <b>1/2010-11/2012</b>: Researcher, Vietnam Research Institute of Electronics, Informatics and Automation - Central Region, Danang, Vietnam.
 
 ## Education
 
