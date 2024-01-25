@@ -12,6 +12,6 @@ author_profile: true
 ## Teaching
 <!--
 * Computer Architecture
-* Digital Systems Design
 * Embedded Systems Design
+* Electronic circuits
 -->
