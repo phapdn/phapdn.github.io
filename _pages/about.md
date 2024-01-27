@@ -14,10 +14,10 @@ I am currently serving as a lecturer at [Vietnam-Korea University of Information
 My primary research interests include algorithms and architectures for:
 
 * Digital Signal Processing
-* Hardware Acceleration
+* Hardware Acceleration Architecture
 * Post-Quantum Cryptography
 * Homomorphic Encryption 
-* Machine Learning
+* Tiny Machine Learning
 
 ## Experience
 
