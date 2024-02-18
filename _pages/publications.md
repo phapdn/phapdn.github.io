@@ -7,10 +7,16 @@ author_profile: true
 
 Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
+## 2024
+
+* **[Jou] Efficient Low-Latency Hardware Architecture for Module-Lattice-Based Digital Signature Standard**  
+  Quang Dang Truong, **Phap Duong-Ngoc**, and Hanho Lee,  
+  *IEEE Access, Accepted.*
+
 ## 2023
 
 * **[Con] Twiddle Factor Generator Architecture for Number Theoretic Transform**  
-  Chulwoo Lee, Hanyoung Lee, **Phap Duong-Ngoc**, and Hanho Lee, Hanho Lee  
+  Chulwoo Lee, Hanyoung Lee, **Phap Duong-Ngoc**, and Hanho Lee  
   *Proceeding of The 20th International SoC Conference (ISoCC), pp. 209-210, Oct. 2023 (<a href="https://ieeexplore.ieee.org/abstract/document/10396598">Link</a>).*
 
 * **[Jou] An Efficient Unified Polynomial Arithmetic Unit for CRYSTALS-Dilithium**  
@@ -22,7 +28,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
   *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), Vol. 70 (10), pp. 3942-3946, Jun. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/document/10163901">Link</a>).*
 
 * **[Jou] Configurable Encryption and Decryption Architectures for CKKS-Based Homomorphic Encryption**  
-  Jaehyeok Lee, **Phap Ngoc Duong** and Hanho Lee,  
+  Jaehyeok Lee, **Phap Ngoc Duong**, and Hanho Lee,  
   *Sensors, Vol. 23 (17), pp. 7389, Aug. 2023 (<a href="https://www.mdpi.com/1424-8220/23/17/7389">Link</a>).*
 
 * **[Jou] Pipelined Key Switching Accelerator Architecture for CKKS-Based Fully Homomorphic Encryption**  
