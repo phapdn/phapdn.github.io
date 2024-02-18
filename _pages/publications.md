@@ -9,6 +9,10 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2023
 
+* **[Con] Twiddle Factor Generator Architecture for Number Theoretic Transform**  
+  Chulwoo Lee, Hanyoung Lee, **Phap Duong-Ngoc**, and Hanho Lee, Hanho Lee  
+  *Proceeding of The 20th International SoC Conference (ISoCC), pp. 209-210, Oct. 2023 (<a href="https://ieeexplore.ieee.org/abstract/document/10396598">Link</a>).*
+
 * **[Jou] An Efficient Unified Polynomial Arithmetic Unit for CRYSTALS-Dilithium**  
   Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
   *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Vol. 70 (12), pp. 4854-4864, Sep. 2023, (ISICAS2023 Presentation) (<a href="https://ieeexplore.ieee.org/abstract/document/10266817">Link</a>).*
