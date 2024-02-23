@@ -37,7 +37,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Jou] Area-Efficient Number Theoretic Transform Architecture for Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Sunmin Kwon, Donghoon Yoo, and Hanho Lee,  
-  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Vol. 70 (3), pp. 1270-1282, Mar. 2023 (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>).*
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), Vol. 70 (3), pp. 1270-1282, Dec. 2022 (<a href="https://ieeexplore.ieee.org/document/9976314">Link</a>).*
 
 ## 2022  
 
