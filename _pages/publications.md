@@ -11,7 +11,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Jou] Efficient Low-Latency Hardware Architecture for Module-Lattice-Based Digital Signature Standard**  
   Quang Dang Truong, **Phap Ngoc Duong**, and Hanho Lee,  
-  *IEEE Access, Accepted.*
+  *IEEE Access, (Accepted), Feb. 2024 (<a href="https://ieeexplore.ieee.org/document/10445248">Link</a>).*
 
 ## 2023
 
