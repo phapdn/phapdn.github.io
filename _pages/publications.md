@@ -83,13 +83,13 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2017-2015
 
-* **[Jou] Evaluating Noise Reduction Solutions for Speech Using Wavelet Transforms**  
+* **[Jou] Evaluating Solutions to Noise Reduction for Speech Using Wavelet Transformations**  
   **Duong Ngoc Phap** and Vo Thi Dieu Hanh,  
-  *Journal of Science and Technology - The University of Danang, 5(114), May. 2017.*
+  *The University of Danang - Journal of Science and Technology (UD-JST), 5(114), May. 2017 (<a href="https://jst-ud.vn/jst-ud/article/view/3295">Link</a>).*
 
-* **[Jou] Solutions for Noise Reduction to Improve Speech Quality Using Adjusted Kalman Filter**  
+* **[Jou] A Study of Measures for Noise Reduction to Improve the Quality of Speech Using Adjustment Kalman Filter**  
   **Duong Ngoc Phap**,  
-  *Journal of Science and Technology - The University of Danang, 12(97), Dec. 2015.*
+  *The University of Danang - Journal of Science and Technology (UD-JST), 12(97), Dec. 2015 (<a href="https://jst-ud.vn/jst-ud/article/view/3072">Link</a>).*
 
 ## Patents
 
