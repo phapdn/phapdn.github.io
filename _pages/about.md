@@ -36,3 +36,4 @@ Technology, Vietnam.
 * <b>M.Sc.</b>, Electronic Engineering, The University of Danang, Vietnam (2012-2015)
   * Thesis: *Research on noise reduction method for speech enhancement using Kalman filter* (advised by Assoc. Prof. Pham Van Tuan)
 * <b>B.Sc.</b>, Electronic and Telecommunication Engineering, University of Science and Technology, The University of DaNang, Vietnam (2004-2009)
+  * Final project: *Designing Automatic Robot to Participate in Vietnam Robot Contest* (advised by Dr. Ngo Van Sy)
