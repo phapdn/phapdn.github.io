@@ -12,7 +12,6 @@ Email: dnphap@inha.ac.kr | phapdn@gmail.com\
 Handphone: (+82)-10-7433-2806
 -->
 
-Faculty of Computer Engineering and Electronics,\
 Vietnam-Korea University of Information and Communication Technology,\
 The University of Danang, Vietnam.\
 Email: dnphap@vku.udn.vn | phapdn@gmail.com\

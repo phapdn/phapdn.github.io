@@ -10,11 +10,7 @@ author_profile: true
 ## Service to scientific community (as reviewer)  
 -->
 ## Teaching
-<!--
-* Computer Architecture
-* Embedded Systems Design
-* Electronic circuits
--->
+
 School of Information and Communication Technology, The University of Danang
 * Computer Architecture, Undergrad Level, Spring 2018
 
