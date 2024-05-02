@@ -9,9 +9,13 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2024
 
+* **[Jou] A Bootstrapping-Capable Configurable NTT Architecture for Fully Homomorphic Encryption**  
+  Rella Mareta, Ardianto Satriawan, **Phap Ngoc Duong**, and Hanho Lee,  
+  *IEEE Access, Vol. 12, pp. 52911 - 52921, Apr. 2022 (<a href="https://ieeexplore.ieee.org/document/10496101">Link</a>).* 
+
 * **[Jou] Efficient Low-Latency Hardware Architecture for Module-Lattice-Based Digital Signature Standard**  
   Quang Dang Truong, **Phap Ngoc Duong**, and Hanho Lee,  
-  *IEEE Access, (Early Access), Feb. 2024 (<a href="https://ieeexplore.ieee.org/document/10445248">Link</a>).*
+  *IEEE Access, Vol. 12, pp. 32395 - 32407, Feb. 2024 (<a href="https://ieeexplore.ieee.org/document/10445248">Link</a>).*
 
 ## 2023
 
