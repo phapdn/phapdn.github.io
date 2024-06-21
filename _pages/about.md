@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received the Ph.D. degree in Electrical and Computer Engineering from Inha University, South Korea, in 2022. Subsequently, I held a post-doctoral fellowship at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, Incheon, South Korea, from September 2022 to January 2024. Currently, I am a lecturer in Vietnam-Korea University of Information and Communication Technology (VKU), part of The University of Danang, situated in Danang, Vietnam. 
+I received the Ph.D. degree in Electrical and Computer Engineering from Inha University, South Korea, in 2022. Subsequently, I held a post-doctoral fellowship at the Artificial Intelligence System-on-Chip (AI-SoC) Research Center, Inha University, Incheon, South Korea, from September 2022 to January 2024. Currently, I am a lecturer in Vietnam-Korea University of Information and Communication Technology (VKU), a part of The University of Danang, located in Danang, Vietnam. 
 
 ## Research Interests
 
