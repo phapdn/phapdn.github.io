@@ -12,10 +12,12 @@ author_profile: true
 ## Teaching
 
 Vietnam-Korea University of Information and Communication Technology, The University of Danang
-* CE2036: Digital Design, Undergrad Level, Fall 2024
-* CE2022: Digital System, Undergrad Level, Fall 2024
+* CE2036: Digital Design, 4th year Undergrad Level, Fall 2024
+* CE2022: Digital System, 2nd year Undergrad Level, Fall 2024
+<!--
 * CS2024: System Programming, Undergrad Level, Fall 2024
 * CE2023: Measurement Instruments, Undergrad Level, Fall 2024
+-->
 
 School of Information and Communication Technology, The University of Danang
 * Computer Architecture, Undergrad Level, Spring 2018
