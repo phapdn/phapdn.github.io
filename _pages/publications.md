@@ -11,7 +11,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Jou] Hybrid Number Theoretic Transform Architecture for Homomorphic Encryption**  
   Quang Dang Truong, **Phap Duong-Ngoc**, and Hanho Lee,  
-  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 33, Issue: 7, Apr. 2025 (<a href="https://ieeexplore.ieee.org/abstract/document/10948417">Link</a>).*
+  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 33, Issue: 7, pp. 2039 - 2043, Apr. 2025 (<a href="https://ieeexplore.ieee.org/abstract/document/10948417">Link</a>).*
 
 * **[Con] Enhancing Data Security in Federated Learning with Dilithium**  
   Quoc Bao Phan, Hien Nguyen, **Phap Duong Ngoc**, and Tuy Tan Nguyen,  
