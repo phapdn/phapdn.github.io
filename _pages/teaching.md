@@ -17,11 +17,6 @@ Vietnam-Korea University of Information and Communication Technology, The Univer
 * Digital Signal Processing, Undergrad Level, Spring 2025
 * Digital System, Undergrad Level, Fall 2024
 
-<!--
-* CS2024: System Programming, Undergrad Level, Fall 2024
-* CE2023: Measurement Instruments, Undergrad Level, Fall 2024
--->
-
 School of Information and Communication Technology, The University of Danang
 * Computer Architecture, Undergrad Level, Spring 2018
 
