@@ -10,7 +10,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 ## 2026
 
 * **[Con] Deterministic Hardware-Native IP Core for Wire-Speed CAN Intrusion Detection**  
-  **Phap Ngoc Duong**, Thang Tran Chi Do, Nhat Thien Nguyen, Duc Minh Ngo, Trang Thi Huyen Nguyen, and Tran The Son, 
+  **Phap Ngoc Duong**, Thang Tran Chi Do, Nhat Thien Nguyen, Duc Minh Ngo, Trang Thi Huyen Nguyen, and Tran The Son,  
   *Submitted.*
 
 * **[Con] Staying Ahead of the Curve: No-Code AI-Assisted IC Design Engineering Education**  
