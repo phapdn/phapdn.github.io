@@ -9,6 +9,10 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 ## 2026
 
+* **[Con] Deterministic Hardware-Native IP Core for Wire-Speed CAN Intrusion Detection**  
+  **Phap Ngoc Duong**, Thang Tran Chi Do, Nhat Thien Nguyen, Duc Minh Ngo, Trang Thi Huyen Nguyen, and Tran The Son, 
+  *Submitted.*
+
 * **[Con] Staying Ahead of the Curve: No-Code AI-Assisted IC Design Engineering Education**  
   Thinh Viet Ngo, **Phap Ngoc Duong**,  
   *2026 International Conference on Semiconductors (ICOS), Danang, Vietnam, Jan. 2026 (<a href="https://event.theise.org/icos/program/">Link</a>).*
