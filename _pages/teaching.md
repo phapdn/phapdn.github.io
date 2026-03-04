@@ -12,14 +12,16 @@ author_profile: true
 ## Teaching
 
 Vietnam-Korea University of Information and Communication Technology, The University of Danang
-* FPGA/ASIC Design with Verilog HDL, Undergrad Level, Fall 2024, Spring 2025
-* Digital IC Design, Undergrad Level, Spring 2025
-* Digital Signal Processing, Undergrad Level, Spring 2025
-* Digital System, Undergrad Level, Fall 2024
+* VLSI Design, Master Level
+* FPGA/ASIC Design with Verilog HDL, Undergrad Level
+* Digital IC Design, Undergrad Level
+* Digital Signal Processing, Undergrad Level
+* Digital Design, Undergrad Level
+* Digital System, Undergrad Level
 
 School of Information and Communication Technology, The University of Danang
-* Computer Architecture, Undergrad Level, Spring 2018
+* Computer Architecture, Undergrad Level
 
 College of Information Technology, The University of Danang
-* Embedded Systems, Undergrad Level, Spring 2016, 2017
-* Electronic Circuits, Undergrad Level, Fall 2013, 2014, 2015, 2016
+* Embedded Systems, Undergrad Level
+* Electronic Circuits, Undergrad Level

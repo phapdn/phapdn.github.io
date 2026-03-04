@@ -7,6 +7,12 @@ author_profile: true
 
 Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
+## 2026
+
+* **[Con] Staying Ahead of the Curve: No-Code AI-Assisted IC Design Engineering Education**  
+  Thinh Viet Ngo, **Phap Ngoc Duong**,  
+  *2026 International Conference on Semiconductors (ICOS), Danang, Vietnam, Jan. 2026 (<a href="https://event.theise.org/icos/program/">Link</a>).*
+
 ## 2025
 
 * **[Jou] Hybrid Number Theoretic Transform Architecture for Homomorphic Encryption**  
