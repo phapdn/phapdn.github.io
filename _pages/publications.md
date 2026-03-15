@@ -41,7 +41,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Con] Twiddle Factor Generator Architecture for Number Theoretic Transform**  
   Chulwoo Lee, Hanyoung Lee, **Phap Duong-Ngoc**, and Hanho Lee  
-  *Proceeding of The 20th International SoC Conference (ISoCC), pp. 209-210, Oct. 2023 (<a href="https://ieeexplore.ieee.org/abstract/document/10396598">Link</a>).*
+  *Proceeding of The 20th International SoC Conference (ISoCC), IEEE Xplore, pp. 209-210, Oct. 2023 (<a href="https://ieeexplore.ieee.org/abstract/document/10396598">Link</a>).*
 
 * **[Jou] An Efficient Unified Polynomial Arithmetic Unit for CRYSTALS-Dilithium**  
   Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
@@ -71,7 +71,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Con] Low-Complexity Architecture of Finding First Four Minimum Values for Non-binary LDPC Decoders**  
   Thang Xuan Pham, **Phap Duong-Ngoc**, Hanho Lee, and Tuy Tan Nguyen,  
-  *Proceeding of The 19th International SoC Conference (ISoCC), pp. 259-260, Oct. 2022 (<a href="https://ieeexplore.ieee.org/abstract/document/10031266">Link</a>).*
+  *Proceeding of The 19th International SoC Conference (ISoCC), IEEE Xplore, pp. 259-260, Oct. 2022 (<a href="https://ieeexplore.ieee.org/abstract/document/10031266">Link</a>).*
 
 * **[Con] A Novel Performance Verification Approach of MIPI Camera Serial Interface 2**  
   Tuy Tan Nguyen, Thang Xuan Pham, **Phap Duong-Ngoc**, and Hanho Lee,  
@@ -79,17 +79,17 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Con] Flexible GPU-Based Implementation of Number Theoretic Transform for Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Thang Xuan Pham, Hanho Lee, and Tuy Tan Nguyen,  
-  *Proceeding of The 19th International SoC Conference (ISoCC), pp. 259-260, Oct. 2022 (<a href="https://ieeexplore.ieee.org/document/10031464">Link</a>).*
+  *Proceeding of The 19th International SoC Conference (ISoCC), IEEE Xplore, pp. 259-260, Oct. 2022 (<a href="https://ieeexplore.ieee.org/document/10031464">Link</a>).*
 
 ## 2021
 
 * **[Con] Configurable Butterfly Unit Architecture for NTT/INTT in Homomorphic Encryption**  
   **Phap Duong-Ngoc**, Tuy Tan Nguyen, and Hanho Lee,  
-  *Proceeding of The 18th International SoC Conference (ISoCC), pp. 345-346, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9614034">Link</a>).*
+  *Proceeding of The 18th International SoC Conference (ISoCC), IEEE Xplore, pp. 345-346, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9614034">Link</a>).*
 
 * **[Con] Novel Performance Evaluation Approach of AMBA AXI-Based SoC Design**  
   Tuy Tan Nguyen, **Phap Duong-Ngoc**, Thang Xuan Pham, and Hanho Lee,  
-  *Proceeding of The 18th International SoC Conference (ISoCC), pp. 403-404, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9613920">Link</a>).*
+  *Proceeding of The 18th International SoC Conference (ISoCC), IEEE Xplore, pp. 403-404, Oct. 2021 (<a href="https://ieeexplore.ieee.org/document/9613920">Link</a>).*
  
 * **[Con] High-Throughput Multi-Threaded Non-binary LDPC Decoder Architecture**  
   Thang Xuan Pham, Tuy Tan Nguyen, **Phap Duong-Ngoc**, and Hanho Lee,  
@@ -103,7 +103,7 @@ Publication names: Phap Duong-Ngoc; Phap Ngoc Duong; Duong Ngoc Phap
 
 * **[Con] Efficient k-Parallel Pipelined NTT Architecture for Post Quantum Cryptography**  
   **Phap Duong-Ngoc**, Yong-Jin Kim, and Hanho Lee,  
-  *Proceeding of The 17th International SoC Conference (ISoCC), pp. 212-213, Oct. 2020 (<a href="https://ieeexplore.ieee.org/document/9332806">Link</a>).*
+  *Proceeding of The 17th International SoC Conference (ISoCC), IEEE Xplore, pp. 212-213, Oct. 2020 (<a href="https://ieeexplore.ieee.org/document/9332806">Link</a>).*
 
 ## 2017-2015
 
