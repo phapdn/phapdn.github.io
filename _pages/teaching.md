@@ -11,11 +11,8 @@ author_profile: true
 -->
 ## Teaching
 
-* VLSI Design
-* FPGA/ASIC Design with Verilog HDL
-* Digital IC Design
-* Digital Design
-* Digital System
-* Digital Signal Processing
 * Computer Architecture
-* Embedded Systems
+* Digital Logic and Design
+* Microcontroller
+* VLSI Design
+* Digital Signal Processing
