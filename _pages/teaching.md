@@ -11,8 +11,8 @@ author_profile: true
 -->
 ## Teaching
 
-* Computer Architecture
-* Digital Logic and Design
-* Microcontroller
-* VLSI Design
-* Digital Signal Processing
+* Computer Architecture, 2026.
+* Digital Logic and Design, 2024-2026.
+* Microcontroller, 2026.
+* VLSI Design, 2026
+* Digital Signal Processing, 2025
